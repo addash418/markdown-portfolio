@@ -1,1 +1,1 @@
-![Link to socialmedia](https://github.com/addash418)
+[Link to socialmedia](https://github.com/addash418)
